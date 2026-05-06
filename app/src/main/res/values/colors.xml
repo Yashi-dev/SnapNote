@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LIGHT PALETTE (Default) -->
+    <color name="colorBackground">#F8F9FA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorElevated">#F1F1F1</color>
+
+    <color name="colorPrimary">#6C63FF</color>
+    <color name="colorPrimaryDark">#5A52D5</color>
+    <color name="colorSecondary">#FFB6B9</color>
+    <color name="colorAccent">#A3D8F4</color>
+
+    <color name="colorText">#2E2E2E</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="colorTextHint">#9E9E9E</color>
+
+    <!-- Light Pastel Tags -->
+    <color name="tagStudy">#D4F1F4</color>
+    <color name="tagPersonal">#E1CCEC</color>
+    <color name="tagWork">#FFEEAD</color>
+    <color name="tagImportant">#FFD1DC</color>
+
+    <!-- Priority Colors -->
+    <color name="priorityLow">#A8E6CF</color>
+    <color name="priorityMedium">#FFD3B6</color>
+    <color name="priorityHigh">#FF8B94</color>
+
+    <!-- Functional -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#2E2E2E</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorError">#B3261E</color>
+</resources>

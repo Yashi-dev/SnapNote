@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnapNote</string>
+    <string name="notes">Notes</string>
+    <string name="reminders">Reminders</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+</resources>
